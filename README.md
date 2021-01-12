@@ -8,7 +8,7 @@ I´m software who love new challenges & OpenSource contributions. My goal is to 
 
 *Connect with me:*
 
-<a href="https://www.linkedin.com/in/ilton-silveira/" target="_blank">
+<a href="https://www.linkedin.com/in/richard-wesley-de-oliveira-962893203/" target="_blank">
   <img align="left" width="22px" src="https://raw.githubusercontent.com/TonGarcia/TonGarcia/a90787c330a000ada45a386828d54eb86ed78d7f/linkedin.svg" style="max-width:100%;">
 </a>
 
